@@ -55,7 +55,7 @@ const Hero = () => {
           </p>
 
           <h1 className="mt-3 text-4xl font-bold leading-tight tracking-tight sm:text-5xl lg:text-6xl xl:text-7xl">
-            Filza
+            Falza
             <br />
             <span className="bg-gradient-to-r from-violet-400 via-fuchsia-300 to-indigo-400 bg-clip-text text-transparent">
               Akram.
@@ -131,7 +131,7 @@ const Hero = () => {
               </div>
 
               <span className="text-xs tracking-wide text-gray-500">
-                filza.jsx
+                falza.jsx
               </span>
 
               <FiCode className="text-lg text-violet-400" />
@@ -152,7 +152,7 @@ const Hero = () => {
               <p className="break-words pl-4 sm:pl-5">
                 <span className="text-violet-300">name</span>
                 <span className="text-gray-500">:</span>{" "}
-                <span className="text-emerald-300">"Filza Akram"</span>,
+                <span className="text-emerald-300">"Falza Akram"</span>,
               </p>
 
               <p className="break-words pl-4 sm:pl-5">

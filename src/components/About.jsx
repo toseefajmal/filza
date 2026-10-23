@@ -101,7 +101,7 @@ const About = () => {
               {/* Name */}
               <div className="mb-5 text-center">
                 <h3 className="text-xl font-bold tracking-wide text-white">
-                  Filza Akram
+                  Falza Akram
                 </h3>
                 <p className="mt-1 text-xs tracking-widest text-violet-300">
                   FRONTEND DEVELOPER
@@ -135,7 +135,7 @@ const About = () => {
             <h3 className="mt-4 text-2xl font-bold leading-tight sm:text-3xl lg:text-4xl">
               Hi, I'm{" "}
               <span className="bg-gradient-to-r from-violet-400 to-fuchsia-300 bg-clip-text text-transparent">
-                Filza Akram
+                Falza Akram
               </span>
             </h3>
 
